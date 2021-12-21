@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "rofltole",
+  "version": "1.0",
+
+  "name": "Rotten Flesh To Leather",
+  "description": "Rotten Flesh To Leather",
+  "authors": [
+    "LilyLicht & FinTheCat"
+  ],
+  "contact": {
+    "homepage": "https://github.com/LilyLicht",
+    "sources": "https://github.com/LilyLicht/rotten-flesh-to-leather"
+  },
+  "license": "Can be found on my GitHub",
+  "icon": "pack.png",
+
+  "environment": "*",
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "minecraft": ">=1.18"
+  }
+}
